@@ -60,4 +60,4 @@ src/
 
 ## Author
 
-Kshitiz Shukla · kshitizshukla05@gmail.com · [GitHub](https://github.com/kshitiz0504)
+Kshitiz Shukla · kshitizshukla05@gmail.com · [GitHub](https://github.com/kshitiz0504) · [Demo](https://pixelvalut.vercel.app/)
